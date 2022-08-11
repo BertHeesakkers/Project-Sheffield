@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Volumes/Development/GitHub/Project-Sheffield/Prototype/Source/Prototype/Prototype.Build.cs",
+		"/Volumes/Development/GitHub/Project-Sheffield/Prototype/Source/Prototype.Target.cs",
+		"/Volumes/Development/GitHub/Project-Sheffield/Prototype/Source/PrototypeEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
